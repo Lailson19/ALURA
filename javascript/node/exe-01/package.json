@@ -1,5 +1,5 @@
 {
-  "name": "2708-node-lib-md",
+  "name": "exercicio-01",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Lailson19/ALURA.git#main"
   },
   "keywords": [],
   "author": "Lailson Andesson",
@@ -21,5 +21,5 @@
     "chalk": "5.2.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "Estudando Node.JS"
 }
